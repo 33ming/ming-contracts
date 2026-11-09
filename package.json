@@ -1,0 +1,16 @@
+{
+  "name": "ming-contracts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Smart contracts for MING, a gamified mining protocol on BNB Smart Chain",
+  "license": "MIT",
+  "scripts": {
+    "compile": "hardhat compile"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "5.4.0"
+  },
+  "devDependencies": {
+    "hardhat": "2.29.1"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "network": "bsc",
+  "name": "BNB Smart Chain Mainnet",
+  "chainId": 56,
+  "rpc": "https://bsc-dataseed.bnbchain.org",
+  "explorer": "https://bscscan.com",
+  "contracts": {
+    "GridMining": "0x50518bfb43d526F0342459cF92CB0AeC25D38Fd9",
+    "Treasury": "0x427992090a24122Df5b77b5cC259804af7Ad8844",
+    "Staking": "0x9515533189751237D92A77068a61D1D100ABd966",
+    "AutoMiner": "0x0a570E5Ac33118f36c9B0AC7bFFCAB6bde57c308",
+    "MingRewardVault": "0xb007EF6EDEB3bBC3500D820acCE4476CC42188F8"
+  },
+  "tokens": {
+    "MING": "0x35771285a60B2aA5d4f5AcB917cc019Ee1DF7777",
+    "XAUT": "0x21cAef8A43163Eea865baeE23b9C2E327696A3bf"
+  },
+  "pools": {
+    "MING/WBNB (PancakeSwap)": "0x14BaCB4C10578c6D561b22244b3f5bF0dF1764c8"
+  }
+}
